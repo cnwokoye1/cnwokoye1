@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Chris from Orlando and I'm a Mathematics-Computational Track undergraduate student at the University of Central Florida. You can check out my [portfolio website](https://fascinating-rugelach-eef608.netlify.app) and my [LinkedIn](https://www.linkedin.com/in/christopher-nwokoye-a35545153/)
+
 <!--
 **cnwokoye1/cnwokoye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
