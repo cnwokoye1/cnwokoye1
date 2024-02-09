@@ -2,6 +2,12 @@
 #### Mathematics-Computational Track Student
 Hi I'm Chris from Orlando, Florida and I'm a mathematics-computational track undergraduate student in my senior year at the University of Central Florida. A little about myself, I am orginially from Laurel, Maryland, but have lived in Orlando for most of my life and I aspire to join the evergrowing technology industry to make an impact in the lives of the people of our society.
 
+- 🔭 I’m currently working on a XGBoost model
+- 🌱 I’m currently learning about the future of A.I. in medicine
+- 👯 I’m looking to collaborate on any Data Science or Web App Idea
+- 💬 Ask me about any Tech related stuff
+- 📫 How to reach me: via LinkedIn
+- 🔗[LinkedIn](https://www.linkedin.com/in/christopher-nwokoye-a35545153/)
 - 📄[Resume](https://fascinating-rugelach-eef608.netlify.app/assets/Resume-Christopher-Nwokoye.pdf)
 - 👨🏽‍💻[Portfolio](https://fascinating-rugelach-eef608.netlify.app/)
 
