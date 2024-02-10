@@ -1,4 +1,4 @@
-### Hi there 👋, Christopher Nwokoye
+### Hi there 👋
 #### Mathematics-Computational Track Student
 Hi I'm Chris from Orlando, Florida and I'm a mathematics-computational track undergraduate student in my senior year at the University of Central Florida. A little about myself, I am orginially from Laurel, Maryland, but have lived in Orlando for most of my life and I aspire to join the evergrowing technology industry to make an impact in the lives of the people of our society.
 
