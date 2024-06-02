@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### Mathematics-Computational Track Student
-Hi I'm Chris from Orlando, Florida and I'm a mathematics-computational track undergraduate student in my senior year at the University of Central Florida. A little about myself, I am orginially from Laurel, Maryland, but have lived in Orlando for most of my life and I aspire to join the evergrowing technology industry to make an impact in the lives of the people of our society.
+#### 
+Hi I'm Chris! A little about myself, I am orginially from Laurel, Maryland, but have lived in Orlando for most of my life. I'm of Nigerian descent and I love music! I aspire to join the evergrowing technology industry to make an impact in our society.
 
 - 🔭 I’m currently working on a XGBoost Project
 - 🌱 I’m currently learning about the future of A.I. in medicine
@@ -8,9 +8,9 @@ Hi I'm Chris from Orlando, Florida and I'm a mathematics-computational track und
 - 🤔 I’m looking for help with Data Structures & Algorithms
 - 💬 Ask me about any Tech related stuff
 - 📄[Resume](https://fascinating-rugelach-eef608.netlify.app/assets/Resume-Christopher-Nwokoye.pdf)
-- 👨🏽‍💻[Portfolio](https://fascinating-rugelach-eef608.netlify.app/)
+- 👨🏽‍💻[Portfolio](https://christophernwokoye.netlify.app/)
 
-Skills: C / Java / Python / JS / HTML / CSS / SQL
+Skills: C / C++ / Java / Python / JS / HTML / CSS / SQL
 
 <!--
 **cnwokoye1/cnwokoye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
