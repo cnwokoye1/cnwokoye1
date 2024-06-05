@@ -7,7 +7,7 @@ Hi I'm Chris! A little about myself, I am orginially from Laurel, Maryland, but 
 - 👯 I’m looking to collaborate on any Data Science or Web App Idea
 - 🤔 I’m looking for help with Data Structures & Algorithms
 - 💬 Ask me about any Tech related stuff
-- 📄[Resume](https://fascinating-rugelach-eef608.netlify.app/assets/Resume-Christopher-Nwokoye.pdf)
+- 📄[Resume](https://christophernwokoye.netlify.app/assets/Resume-Christopher-Nwokoye.pdf)
 - 👨🏽‍💻[Portfolio](https://christophernwokoye.netlify.app/)
 
 Skills: C / C++ / Java / Python / JS / HTML / CSS / SQL
