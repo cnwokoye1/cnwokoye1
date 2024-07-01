@@ -2,8 +2,8 @@
 #### 
 Hi I'm Chris! A little about myself, I am orginially from Laurel, Maryland, but have lived in Orlando for most of my life. I'm of Nigerian descent and I love music! I aspire to join the evergrowing technology industry to make an impact in our society.
 
-- 🔭 I’m currently working on a XGBoost Project
-- 🌱 I’m currently learning about the future of A.I. in medicine
+- 🔭 I’m currently working on a sales data analysis project
+- 🌱 I’m currently learning about numerical linear algebra
 - 👯 I’m looking to collaborate on any Data Science or Web App Idea
 - 🤔 I’m looking for help with Data Structures & Algorithms
 - 💬 Ask me about any Tech related stuff
