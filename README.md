@@ -9,7 +9,7 @@ Hi I'm Chris! A little about myself, I am orginially from Laurel, Maryland, but 
 - 💬 Ask me about any Tech related stuff
 - 📄[Resume](https://christophernwokoye.netlify.app/assets/Resume.pdf)
 
-Skills: C / C++ / Java / Python / JS / HTML / CSS / SQL
+Skills: C / C++ / Java / Python / JS / HTML / CSS / SQL / MATLAB
 
 <!--
 **cnwokoye1/cnwokoye1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
