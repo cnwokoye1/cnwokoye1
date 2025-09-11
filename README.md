@@ -2,7 +2,7 @@
 #### 
 I’m Christopher Nwokoye — an IT professional with the City of Orlando.
 - 💻 Currently supporting **enterprise IT systems** while expanding into **SQL, APIs, and enterprise application support**  
-- 📊 Developing projects in **SQL data analysis**, **API integrations**, and **GIS tools** for geospatial data visualization  
+- 📊 Building hands-on projects in **SQL data analysis** and **API integrations** to strengthen data management skills 
 - 🔧 Exploring **embedded software development**, applying C++ and Python to low-level systems projects  
 - 🎯 Long-term goal: a career in **AI/ML engineering**  
 
